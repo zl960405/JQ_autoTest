@@ -1,0 +1,9 @@
+-
+    url: http://pc.tyltxt.com/#/home
+    name: By.XPATH
+    click: //*[@class="topListR  clear topListRHome"]/li[3]/span
+    locator: /html/body/div/div[1]/section/main/div/div[2]/div/div[1]/div[2]/div/div[2]/div[1]/span[2]
+    locator1:
+        value: /html/body/div/div[2]/section/main/div/div[2]/div/div[1]/div[2]/div/div[2]/form/div[1]/div/div/input
+        txt: 14512340001
+
